@@ -4,4 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-apache/doris:latest
+apache/doris:build-env-for-2.1
+apache/doris:build-env-for-2.0
